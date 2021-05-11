@@ -3,7 +3,6 @@ package me.catsbi.inflearnthejavatest.domain;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import me.catsbi.inflearnthejavatest.study.StudyStatus;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;

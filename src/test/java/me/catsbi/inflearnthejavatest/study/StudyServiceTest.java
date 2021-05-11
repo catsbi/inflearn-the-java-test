@@ -3,6 +3,7 @@ package me.catsbi.inflearnthejavatest.study;
 import lombok.extern.slf4j.Slf4j;
 import me.catsbi.inflearnthejavatest.domain.Member;
 import me.catsbi.inflearnthejavatest.domain.Study;
+import me.catsbi.inflearnthejavatest.domain.StudyStatus;
 import me.catsbi.inflearnthejavatest.member.MemberService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
